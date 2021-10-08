@@ -66,9 +66,7 @@ top_img: https://i.loli.net/2021/10/08/UeOyHWfaZd9gJlv.jpg
 
 这里放个视频给大家演示一下操作流程及效果：
 
-<video id="video" controls="" preload="none" poster="https://img-blog.csdnimg.cn/953ae4a029004894a98c1f481d660016.jpg">
-<source id="mp4" src="http://mpvideo.qpic.cn/0bf244afoaaaseapcla3szqvbz6dk7tqavya.f10003.mp4?dis_k=35baa4b7be29c1614e3afbf9b801d581&dis_t=1633664482&vid=wxv_2006718904252809218&format_id=10003&support_redirect=0&mmversion=false" type="video/mp4">
-</video>
+ [视频演示](https://pan.lwjsgzs.cn/s/pYuK/video?name=Screenrecorder-2021-08-17-20-00-25-498.mp4)
 
 该功能本质也是保存网页为mht离线格式，但当它遇上 **网页收藏夹** 时，将会擦出不一样的火花。
 
