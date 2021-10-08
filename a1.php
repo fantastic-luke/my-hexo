@@ -1,3 +1,0 @@
-sssd
-
-sdkkaa
