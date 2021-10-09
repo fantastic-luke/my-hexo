@@ -66,9 +66,8 @@ top_img: https://i.loli.net/2021/10/08/UeOyHWfaZd9gJlv.jpg
 
 这里放个视频给大家演示一下操作流程及效果：
 
- [视频演示](https://pan.lwjsgzs.cn/s/pYuK/video?name=Screenrecorder-2021-08-17-20-00-25-498.mp4)
-
-该功能本质也是保存网页为mht离线格式，但当它遇上 **网页收藏夹** 时，将会擦出不一样的火花。
+[![logo](https://i.loli.net/2021/10/09/J36SZYDAuRknECe.png)](https://v.kuaishou.com/cHq404)
+<font size=2>该功能本质也是保存网页为mht离线格式，但当它遇上 **网页收藏夹** 时，将会擦出不一样的火花。</font>
 
 **优点**：
  ● 可以保存动图或者是代码块等
