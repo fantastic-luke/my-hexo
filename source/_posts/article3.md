@@ -5,8 +5,7 @@ updated: 2021-10-08
 type: 教程
 categories: 教程
 tags: 
-  - tag1
-  - tag2
+  - 网页管理
 sticky: 
 cover: https://i.loli.net/2021/10/09/NH6j2cSsVuGhL75.jpg
 top_img: https://i.loli.net/2021/10/09/NH6j2cSsVuGhL75.jpg
