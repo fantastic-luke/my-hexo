@@ -4,9 +4,13 @@ date: 2021-10-08
 updated: 2021-10-08
 type: 教程
 categories: 教程
+tags: 
+  - tag1
+  - tag2
 sticky: 
 cover: https://i.loli.net/2021/10/08/UeOyHWfaZd9gJlv.jpg
 top_img: https://i.loli.net/2021/10/08/UeOyHWfaZd9gJlv.jpg
+copyright_info: 此文章版权归『浩渺星空』所有，如有转载，请注明来自原作者
 ---
 **『数据恢复』**
 若您的设备上存在旧版本的数据需要进行以下操作进行恢复。

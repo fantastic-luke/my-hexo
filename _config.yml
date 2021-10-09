@@ -4,7 +4,7 @@
 
 # Site
 title: 浩渺の星空
-subtitle: '探索，让未来多了一种可能！'
+subtitle: 
 description: '探索，让未来多了一种可能！'
 keywords:
 author: 浩渺星空
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://my-hexo1-8gcnv9e798968b02-1300587550.ap-shanghai.app.tcloudbase.com/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
