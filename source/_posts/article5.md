@@ -11,7 +11,7 @@ cover: https://s2.loli.net/2022/01/17/PhgW4eN2TzwoBpM.jpg
 top_img: https://s2.loli.net/2022/01/17/PhgW4eN2TzwoBpM.jpg
 copyright_info: 此文章版权归『浩渺星空』所有，如有转载，请注明来自原作者
 ---
-<center>**我的开发**</center>
+<center><font size=3>我的开发</font></center>
 
 **极简记账**
 <font size=2>&emsp;&emsp;一款渐变风格的记账软件。包含『账本管理』『收支统计』『导出Excel.』『批量导入』「插入图片』等等功能，帮你轻松记录每一笔开支！</font>
@@ -28,7 +28,7 @@ copyright_info: 此文章版权归『浩渺星空』所有，如有转载，请�
 &emsp;&emsp;因为有好多某云的音乐以前能听现在却没版权，所以我开发了这款『本地音乐』，不妨把喜欢的音乐下载下来吧，再也不用担心想听的歌曲听不了</font>
 [**【查看详情】**](https://www.coolapk.com/apk/com.best.webpages.collection)
 
-<center>**其他软件**</center>
+<center><font size=3>其他软件</font></center>
 
 **JsHD调试器**
 <font size=2>&emsp;&emsp;一款可视化的网页调试器，它可以对网页元素进行可视化修改并生成js代码，它会让你爱上调教网页的感觉。</font>
