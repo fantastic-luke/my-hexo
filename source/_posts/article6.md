@@ -31,7 +31,7 @@ copyright_info: 此文章版权归『浩渺星空』所有，如有转载，请�
 \- 批量操作复选框样式优化。
 \- 当前主题开放图标功能
 \- 注:更新后所有主题信息将重置为默认，需自行进行设置。</font>
-[**【下载地址】**](https://wwi.lanzoui.com/itaiKtuk5yd)
+[**【下载地址】**](https://wwi.lanzoul.com/ik6iOz8qrgh)
 
 **「网页收藏夹」 发布v2.0.7 版本更新 21.09.10**
 <font size=2>&emsp;PS:若发现【网络诊断器】打开后报错的情况请重新下载。
