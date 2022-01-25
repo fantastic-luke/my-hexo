@@ -13,36 +13,34 @@ copyright_info: 此文章版权归『浩渺星空』所有，如有转载，请�
 ---
 **『数据恢复』**
 若您的设备上存在旧版本的数据需要进行以下操作进行恢复。
+<div align="center">
+<img src="https://s2.loli.net/2022/01/25/fW4b2Z9aVxn6vs5.jpg" height="" alt="" > 
+</div>
 
-[![logo](https://i.loli.net/2021/10/09/J36SZYDAuRknECe.png)](https://v.kuaishou.com/cHq404)
+<font size=3>**『基础操作』**</font>
+下面的视频演示了怎么创建网页项目。
+
+[![logo](https://i.loli.net/2021/10/09/J36SZYDAuRknECe.png)](https://cdn.jsdelivr.net/gh/fantastic-luke/myBox/网页锦藏-基础操作.mp4)
 <font size=2>注：创建时可以不输入网页名称，软件会自动获取网页名称，当切换回软件界面时，软件会自动获取剪切板内容，若其中有网页链接则在界面右上方会有提醒标识出现。</font>
 
-**『云端数据恢复』**
-下面的视频演示了当在另一台设备登录时，如何恢复云端已备份的数据。
+<font size=3>**『网页音视频嗅探』**</font>
 
-[![logo](https://i.loli.net/2021/10/09/J36SZYDAuRknECe.png)](https://v.kuaishou.com/cHq404)
-
-**『网页音视频嗅探』**
-下面的视频演示了怎么嗅探网页中的音视频。
-
-[![logo](https://i.loli.net/2021/10/09/J36SZYDAuRknECe.png)](https://v.kuaishou.com/cHq404)
+[![logo](https://i.loli.net/2021/10/09/J36SZYDAuRknECe.png)](https://cdn.jsdelivr.net/gh/fantastic-luke/myBox/网页锦藏-音视频嗅探.mp4 )
 <font size=2>注：长按嗅探列表项目会自动复制链接哦！很多影视网页里面的影视链接也能嗅探哦！快去试试吧！
 ps:很多影视网页嗅探出来的是m3u8文件链接，此时可以配合使用夸克浏览器进行下载。</font>
 
-<font size=3>**『加载JS代码』**</font>
-下面的视频演示了如何配合使用"JsHD调试器"来快速屏蔽网页元素。
+<font size=3>**『下载网易云音乐』**</font>
 
-[![logo](https://i.loli.net/2021/10/09/J36SZYDAuRknECe.png)](https://v.kuaishou.com/cHq404)
-<font size=2>注：软件："JsHD调试器"可以在酷安搜索下载，也可以在本软件侧滑栏>其他Apps里面找到打开或下载。</font>
-
-<font size=3>**『下载某云音乐』**</font>
-版本2.0.7及以上可用。
-
-[![logo](https://i.loli.net/2021/10/09/J36SZYDAuRknECe.png)](https://v.kuaishou.com/cHq404)
-<font size=2>注：软件："本地音乐"可以在酷安搜索下载，也可以在本软件侧滑栏>其他Apps里面找到打开或下载。</font>
+[![logo](https://i.loli.net/2021/10/09/J36SZYDAuRknECe.png)](https://cdn.jsdelivr.net/gh/fantastic-luke/myBox/网页锦藏-网易云音乐下载.mp4)
 
 <font size=3>**『脚本管理器』**</font>
+
+[![logo](https://i.loli.net/2021/10/09/J36SZYDAuRknECe.png)](https://cdn.jsdelivr.net/gh/fantastic-luke/myBox/网页锦藏-脚本使用.mp4)
 先新建一个项目，然后将脚本代码粘贴进去即可。
-这里分享一个油猴脚本[**【全网vip视频】**](https://wwi.lanzoui.com/inkr4tul1ub)
-使用的时候，打开某迅视频网站，然后将浏览器Ua设置成PC模式，观看视频的时候就会有小悬浮窗出现了。
-Ps:等有空了再录个操作视频。
+脚本分享[**【全网VIP视频】**](https://wwi.lanzoui.com/inkr4tul1ub)
+脚本分享[**【通用VIP解析】**](https://wwi.lanzoul.com/if0Wbz95jwf)
+
+<font size=3>**『设计主页图标』**</font>
+
+[![logo](https://i.loli.net/2021/10/09/J36SZYDAuRknECe.png)](https://cdn.jsdelivr.net/gh/fantastic-luke/myBox/网页锦藏-图标设计教程.mp4 )
+<font size=2>注：图标素材路径：内部存储/网页锦藏/设置/图标仓库/供添加/</font>
