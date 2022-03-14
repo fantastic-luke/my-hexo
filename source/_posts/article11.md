@@ -56,6 +56,10 @@ copyright_info: 此文章版权归『浩渺星空』所有，如有转载，请�
 \- 「添至歌单」可以将对应音乐添加至其他歌单音乐列表里。
 \- 「名称交换」本地音乐名称建议以例子 "歌手 - 歌名.mp3" 的命名方式来命名。若是以 "歌名 - 歌手.mp3" 的命名方式命名的歌曲可通过此项快速修改。</font>
 
+<div align="center">
+<img src="https://s2.loli.net/2022/03/15/kAEGijMmoIL9YN1.jpg" height="" alt="" > 
+</div>
+
 <font size=2>**9、修改歌词**</font>
 <font size=2>\- 可重新修改或调整歌词，具体操作可参考生成歌词</font>
 
