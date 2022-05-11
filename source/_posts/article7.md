@@ -48,4 +48,4 @@ copyright_info: 此文章版权归『浩渺星空』所有，如有转载，请�
 &emsp;&emsp;推广验证：需要开通者开通会员时告诉我推广人的昵称即可。
 </font>
 
-<center><font size=2>（以上活动最终解释权由"网页收藏夹"开发者所有）</font></center>
+<center><font size=2>（以上活动最终解释权由"网页锦藏"开发者所有）</font></center>
